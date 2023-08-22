@@ -1,0 +1,16 @@
+h1{
+    background-color: brown;
+    color: aquamarine;
+    text-align: center;
+    
+}
+#hidebtn{
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+#unhidebtn{
+    background-color: yellow;
+    color: hotpink;
+    text-align: center;
+}
